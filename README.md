@@ -2,7 +2,7 @@
 
 >Resolução de problemas de negócio simulados e soluções de requisições utilizando Datawarehouse AWS Redshift, AWS S3 e BD Relacional.
 
-##Objetivo: 
+## Objetivo: 
 
 O presente projeto tem como objetivo simular requisições e problemas de negócios de uma empresa fictícia com um banco de dados Northwind (organização fictícia que gerencia pedidos, produtos, clientes, fornecedores, colaboradores, etc). 
 
