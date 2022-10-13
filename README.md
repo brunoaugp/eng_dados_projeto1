@@ -6,7 +6,7 @@ O presente projeto tem como objetivo simular requisições e problemas de negóc
 
 O esquema do BD Relacional da empresa se dá de acordo com a imagem:
 
-![esquema](esquema_tabelas.png)
+![esquema](esquema_tabelas_2.jpg)
 <!-- colocar screenshoot do seu projeto -->
 
 ## Preparação do ambiente
